@@ -5,8 +5,13 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tejasvi H. | Creative Developer",
-  description: "High-end scrollytelling portfolio.",
+  title: "Jignesh Vadiyatar | Node.js Backend Developer",
+  description: "Personal developer portfolio of Jignesh Vadiyatar, Node.js Backend Developer specializing in scalable backend systems, APIs, and microservices.",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
@@ -16,6 +21,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.png" type="image/png" sizes="any" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );

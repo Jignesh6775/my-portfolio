@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useMotionValueEvent, MotionValue } from 'framer-motion';
 
-const FRAME_COUNT = 192;
+const FRAME_COUNT = 146;
 
 interface ScrollyCanvasProps {
     scrollYProgress: MotionValue<number>;
@@ -22,7 +22,7 @@ export default function ScrollyCanvas({ scrollYProgress }: ScrollyCanvasProps) {
 
             for (let i = 0; i < FRAME_COUNT; i++) {
                 const img = new Image();
-                const filename = `/sequence/${i.toString().padStart(3, '0')}.png`;
+                const filename = `/sequence-3/${i.toString().padStart(3, '0')}.png`;
 
                 const promise = new Promise<void>((resolve) => {
                     img.onload = () => resolve();

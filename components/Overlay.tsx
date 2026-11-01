@@ -22,18 +22,18 @@ export default function Overlay({ scrollYProgress }: OverlayProps) {
 
     return (
         <div className="pointer-events-none absolute inset-0 z-10 flex flex-col justify-between">
-            {/* Section 1 - Moved up slightly (65vh instead of 75vh) */}
+            {/* Section 1 - Hero Introduction */}
             <motion.div
                 style={{ opacity: opacity1, y: y1 }}
                 className="absolute inset-0 flex items-start justify-start px-12 md:px-32 pt-[65vh]"
             >
                 <div>
-                    <h1 className="text-6xl font-bold tracking-tighter md:text-9xl text-white">
-                        Tejasvi
+                    <h1 className="text-5xl font-bold tracking-tighter md:text-8xl lg:text-9xl text-white">
+                        Jignesh Vadiyatar
                     </h1>
-                    {/* Lighter sub-text */}
+                    {/* Sub-text */}
                     <p className="mt-4 text-xl md:text-3xl text-gray-200 font-light">
-                        Software Engineer & Java Specialist
+                        Node.js Developer & Backend Engineer
                     </p>
                 </div>
             </motion.div>

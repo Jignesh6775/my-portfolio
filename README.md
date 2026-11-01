@@ -1,16 +1,17 @@
-# Scrollytelling Portfolio
+# Jignesh Vadiyatar - Developer Portfolio
 
-A high-performance, cinematic personal portfolio website featuring scroll-linked video playback, parallax effects, and a modern dark aesthetic. Built for **Tejasvi H.Y.** to showcase expertise in backend engineering and Java architecture.
+A high-performance, cinematic personal portfolio website featuring scroll-linked canvas animations, parallax effects, and a modern dark aesthetic. Showcasing expertise in Node.js backend engineering, scalable REST APIs, and microservices.
 
 ![Tech Stack](https://img.shields.io/badge/Next.js-14-black) ![Tech Stack](https://img.shields.io/badge/TypeScript-5.0-blue) ![Tech Stack](https://img.shields.io/badge/Tailwind-3.0-cyan) ![Tech Stack](https://img.shields.io/badge/Framer_Motion-11.0-purple)
 
 ## 🌟 Key Features
 
-*   **Scrollytelling Mechanic**: HTML5 Canvas + Framer Motion implementation that scrubs through a high-res image sequence (192 frames) based on scroll position.
-*   **Parallax Overlay**: Text elements fade in/out and move at different speeds relations to the video background.
-*   **Interactive Timeline**: Vertical timeline component showcasing professional experience (N26, Cisco, Synamedia).
-*   **Performance Optimized**: Image preloading strategy ensures 60fps rendering without flickering.
-*   **Responsive Design**: Mobile-friendly layout with custom `object-fit` logic for the canvas.
+*   **Scrollytelling Mechanic**: HTML5 Canvas + Framer Motion implementation that scrubs through high-res animation frames based on scroll position.
+*   **Parallax Overlay**: Text elements fade in/out and translate dynamically relative to the background sequence.
+*   **Professional Journey Timeline**: Vertical timeline highlighting enterprise experience at 11axis Services Pvt. Ltd. with project subtopics.
+*   **Beyond the Code & Professional Strengths**: Editorial layout exploring personal perspectives on cinema, storytelling, and key engineering superpowers.
+*   **Performance Optimized**: Preloaded assets and optimized canvas cover scaling ensure 60fps rendering.
+*   **Responsive Design**: Clean mobile-first design across phone, tablet, and desktop viewports.
 
 ## 🛠️ Technology Stack
 
@@ -18,7 +19,7 @@ A high-performance, cinematic personal portfolio website featuring scroll-linked
 *   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 *   **Animation**: [Framer Motion](https://www.framer.com/motion/)
 *   **Language**: TypeScript
-*   **Icons**: React Icons (FontAwesome, etc.)
+*   **Icons**: React Icons
 
 ## 📂 Project Structure
 
@@ -30,11 +31,12 @@ A high-performance, cinematic personal portfolio website featuring scroll-linked
 ├── components/
 │   ├── ScrollyCanvas.tsx # Core video scrubbing logic
 │   ├── Overlay.tsx       # Hero text & Parallax animations
-│   ├── Projects.tsx      # Professional Experience Timeline
-│   ├── BlogSection.tsx   # Hobbies & Blog Links
-│   └── Contact.tsx       # Social links & Footer
+│   ├── Projects.tsx      # Professional Experience & Projects
+│   ├── BlogSection.tsx   # Beyond the Code & What I Bring to the Table
+│   └── Contact.tsx       # Social links, resume & footer
 ├── public/
-│   └── sequence/         # 192 PNG frames for the scroll animation
+│   ├── sequence-3/       # PNG animation frames
+│   └── resume.pdf        # Professional resume
 └── tailwind.config.ts    # Theme customization
 ```
 
@@ -42,7 +44,7 @@ A high-performance, cinematic personal portfolio website featuring scroll-linked
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/portfolio.git
+    git clone https://github.com/Jignesh6775/portfolio.git
     cd portfolio
     ```
 
@@ -59,13 +61,5 @@ A high-performance, cinematic personal portfolio website featuring scroll-linked
 4.  **Open in browser:**
     Visit [http://localhost:3000](http://localhost:3000)
 
-## 🚢 Deployment
-
-The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new).
-
-1.  Push your code to a GitHub repository.
-2.  Import the project into Vercel.
-3.  Vercel will detect Next.js and deploy automatically.
-
 ---
-© 2026 Tejasvi H.Y.
+© 2026 Jignesh Vadiyatar. All rights reserved.
