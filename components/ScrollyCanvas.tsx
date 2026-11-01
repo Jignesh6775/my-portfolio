@@ -22,7 +22,7 @@ export default function ScrollyCanvas({ scrollYProgress }: ScrollyCanvasProps) {
 
             for (let i = 0; i < FRAME_COUNT; i++) {
                 const img = new Image();
-                const filename = `/sequence-3/${i.toString().padStart(3, '0')}.png`;
+                const filename = `/sequence-webp/${i.toString().padStart(3, '0')}.webp`;
 
                 const promise = new Promise<void>((resolve) => {
                     img.onload = () => resolve();

@@ -1,0 +1,900 @@
+{
+  "frameCount": 146,
+  "quality": 92,
+  "durationSec": "124.1",
+  "origMB": "175.53",
+  "webpMB": "11.61",
+  "avgOrigKB": "1231.1",
+  "avgWebpKB": "81.4",
+  "totalReduction": "93.39",
+  "largestFrame": {
+    "frame": "142",
+    "origSize": 1354490,
+    "webpSize": 96202,
+    "ratio": "92.9"
+  },
+  "smallestFrame": {
+    "frame": "035",
+    "origSize": 1237288,
+    "webpSize": 76056,
+    "ratio": "93.9"
+  },
+  "frames": [
+    {
+      "frame": "000",
+      "origSize": 1010032,
+      "webpSize": 86268,
+      "ratio": "91.5"
+    },
+    {
+      "frame": "001",
+      "origSize": 1055207,
+      "webpSize": 85722,
+      "ratio": "91.9"
+    },
+    {
+      "frame": "002",
+      "origSize": 1054066,
+      "webpSize": 84770,
+      "ratio": "92.0"
+    },
+    {
+      "frame": "003",
+      "origSize": 1158566,
+      "webpSize": 81678,
+      "ratio": "93.0"
+    },
+    {
+      "frame": "004",
+      "origSize": 1160098,
+      "webpSize": 81126,
+      "ratio": "93.0"
+    },
+    {
+      "frame": "005",
+      "origSize": 1159504,
+      "webpSize": 80272,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "006",
+      "origSize": 1167371,
+      "webpSize": 83676,
+      "ratio": "92.8"
+    },
+    {
+      "frame": "007",
+      "origSize": 1176126,
+      "webpSize": 80958,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "008",
+      "origSize": 1178677,
+      "webpSize": 80760,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "009",
+      "origSize": 1176427,
+      "webpSize": 79456,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "010",
+      "origSize": 1182175,
+      "webpSize": 82652,
+      "ratio": "93.0"
+    },
+    {
+      "frame": "011",
+      "origSize": 1186153,
+      "webpSize": 78896,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "012",
+      "origSize": 1193593,
+      "webpSize": 80012,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "013",
+      "origSize": 1194000,
+      "webpSize": 78472,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "014",
+      "origSize": 1199737,
+      "webpSize": 81678,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "015",
+      "origSize": 1196626,
+      "webpSize": 76722,
+      "ratio": "93.6"
+    },
+    {
+      "frame": "016",
+      "origSize": 1200817,
+      "webpSize": 78588,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "017",
+      "origSize": 1196988,
+      "webpSize": 76662,
+      "ratio": "93.6"
+    },
+    {
+      "frame": "018",
+      "origSize": 1212176,
+      "webpSize": 81144,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "019",
+      "origSize": 1206010,
+      "webpSize": 76618,
+      "ratio": "93.6"
+    },
+    {
+      "frame": "020",
+      "origSize": 1211136,
+      "webpSize": 77336,
+      "ratio": "93.6"
+    },
+    {
+      "frame": "021",
+      "origSize": 1211685,
+      "webpSize": 76218,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "022",
+      "origSize": 1225156,
+      "webpSize": 81316,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "023",
+      "origSize": 1217815,
+      "webpSize": 76298,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "024",
+      "origSize": 1223055,
+      "webpSize": 77594,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "025",
+      "origSize": 1219483,
+      "webpSize": 76670,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "026",
+      "origSize": 1233206,
+      "webpSize": 80526,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "027",
+      "origSize": 1224335,
+      "webpSize": 76430,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "028",
+      "origSize": 1233606,
+      "webpSize": 78160,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "029",
+      "origSize": 1227689,
+      "webpSize": 76572,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "030",
+      "origSize": 1247762,
+      "webpSize": 81634,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "031",
+      "origSize": 1233325,
+      "webpSize": 76592,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "032",
+      "origSize": 1242704,
+      "webpSize": 78822,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "033",
+      "origSize": 1237122,
+      "webpSize": 77192,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "034",
+      "origSize": 1252629,
+      "webpSize": 81654,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "035",
+      "origSize": 1237288,
+      "webpSize": 76056,
+      "ratio": "93.9"
+    },
+    {
+      "frame": "036",
+      "origSize": 1243528,
+      "webpSize": 78124,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "037",
+      "origSize": 1239737,
+      "webpSize": 76348,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "038",
+      "origSize": 1258166,
+      "webpSize": 82198,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "039",
+      "origSize": 1245257,
+      "webpSize": 77056,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "040",
+      "origSize": 1252401,
+      "webpSize": 78612,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "041",
+      "origSize": 1247798,
+      "webpSize": 77378,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "042",
+      "origSize": 1263038,
+      "webpSize": 81886,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "043",
+      "origSize": 1247931,
+      "webpSize": 77020,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "044",
+      "origSize": 1255745,
+      "webpSize": 79536,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "045",
+      "origSize": 1253755,
+      "webpSize": 78254,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "046",
+      "origSize": 1268559,
+      "webpSize": 82850,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "047",
+      "origSize": 1251114,
+      "webpSize": 77914,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "048",
+      "origSize": 1256145,
+      "webpSize": 79438,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "049",
+      "origSize": 1250590,
+      "webpSize": 77528,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "050",
+      "origSize": 1264513,
+      "webpSize": 82162,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "051",
+      "origSize": 1250165,
+      "webpSize": 77140,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "052",
+      "origSize": 1256873,
+      "webpSize": 78754,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "053",
+      "origSize": 1251563,
+      "webpSize": 78234,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "054",
+      "origSize": 1267100,
+      "webpSize": 82642,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "055",
+      "origSize": 1256483,
+      "webpSize": 78822,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "056",
+      "origSize": 1260566,
+      "webpSize": 79986,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "057",
+      "origSize": 1257722,
+      "webpSize": 78980,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "058",
+      "origSize": 1267442,
+      "webpSize": 82856,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "059",
+      "origSize": 1253723,
+      "webpSize": 77810,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "060",
+      "origSize": 1259356,
+      "webpSize": 79512,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "061",
+      "origSize": 1253531,
+      "webpSize": 78318,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "062",
+      "origSize": 1262822,
+      "webpSize": 82176,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "063",
+      "origSize": 1249257,
+      "webpSize": 77470,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "064",
+      "origSize": 1256311,
+      "webpSize": 78940,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "065",
+      "origSize": 1249197,
+      "webpSize": 77522,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "066",
+      "origSize": 1257861,
+      "webpSize": 81454,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "067",
+      "origSize": 1247167,
+      "webpSize": 76688,
+      "ratio": "93.9"
+    },
+    {
+      "frame": "068",
+      "origSize": 1255734,
+      "webpSize": 78702,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "069",
+      "origSize": 1248827,
+      "webpSize": 77344,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "070",
+      "origSize": 1255819,
+      "webpSize": 81968,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "071",
+      "origSize": 1251300,
+      "webpSize": 77536,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "072",
+      "origSize": 1255267,
+      "webpSize": 79010,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "073",
+      "origSize": 1250469,
+      "webpSize": 77646,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "074",
+      "origSize": 1253306,
+      "webpSize": 82294,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "075",
+      "origSize": 1250753,
+      "webpSize": 77290,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "076",
+      "origSize": 1256576,
+      "webpSize": 79572,
+      "ratio": "93.7"
+    },
+    {
+      "frame": "077",
+      "origSize": 1252305,
+      "webpSize": 78156,
+      "ratio": "93.8"
+    },
+    {
+      "frame": "078",
+      "origSize": 1265146,
+      "webpSize": 86178,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "079",
+      "origSize": 1263166,
+      "webpSize": 81678,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "080",
+      "origSize": 1268710,
+      "webpSize": 83174,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "081",
+      "origSize": 1266549,
+      "webpSize": 82192,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "082",
+      "origSize": 1270122,
+      "webpSize": 86736,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "083",
+      "origSize": 1265361,
+      "webpSize": 82470,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "084",
+      "origSize": 1269157,
+      "webpSize": 83726,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "085",
+      "origSize": 1267606,
+      "webpSize": 82806,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "086",
+      "origSize": 1266692,
+      "webpSize": 87472,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "087",
+      "origSize": 1266534,
+      "webpSize": 82844,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "088",
+      "origSize": 1274723,
+      "webpSize": 83890,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "089",
+      "origSize": 1273764,
+      "webpSize": 83182,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "090",
+      "origSize": 1276614,
+      "webpSize": 88004,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "091",
+      "origSize": 1273584,
+      "webpSize": 83060,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "092",
+      "origSize": 1279553,
+      "webpSize": 84456,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "093",
+      "origSize": 1275755,
+      "webpSize": 83474,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "094",
+      "origSize": 1282079,
+      "webpSize": 89084,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "095",
+      "origSize": 1283362,
+      "webpSize": 84166,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "096",
+      "origSize": 1291635,
+      "webpSize": 85790,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "097",
+      "origSize": 1286118,
+      "webpSize": 84496,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "098",
+      "origSize": 1285234,
+      "webpSize": 88872,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "099",
+      "origSize": 1284029,
+      "webpSize": 83756,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "100",
+      "origSize": 1288075,
+      "webpSize": 85168,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "101",
+      "origSize": 1286746,
+      "webpSize": 83910,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "102",
+      "origSize": 1287035,
+      "webpSize": 89638,
+      "ratio": "93.0"
+    },
+    {
+      "frame": "103",
+      "origSize": 1289364,
+      "webpSize": 84974,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "104",
+      "origSize": 1294629,
+      "webpSize": 85822,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "105",
+      "origSize": 1288922,
+      "webpSize": 84472,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "106",
+      "origSize": 1289098,
+      "webpSize": 89340,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "107",
+      "origSize": 1286995,
+      "webpSize": 83806,
+      "ratio": "93.5"
+    },
+    {
+      "frame": "108",
+      "origSize": 1292156,
+      "webpSize": 85542,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "109",
+      "origSize": 1286163,
+      "webpSize": 84342,
+      "ratio": "93.4"
+    },
+    {
+      "frame": "110",
+      "origSize": 1293706,
+      "webpSize": 91356,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "111",
+      "origSize": 1292921,
+      "webpSize": 87064,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "112",
+      "origSize": 1297827,
+      "webpSize": 88440,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "113",
+      "origSize": 1295972,
+      "webpSize": 87142,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "114",
+      "origSize": 1301614,
+      "webpSize": 92722,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "115",
+      "origSize": 1304168,
+      "webpSize": 87306,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "116",
+      "origSize": 1303390,
+      "webpSize": 88744,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "117",
+      "origSize": 1299365,
+      "webpSize": 87236,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "118",
+      "origSize": 1305401,
+      "webpSize": 92190,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "119",
+      "origSize": 1302173,
+      "webpSize": 87366,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "120",
+      "origSize": 1306888,
+      "webpSize": 88936,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "121",
+      "origSize": 1303761,
+      "webpSize": 87736,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "122",
+      "origSize": 1310778,
+      "webpSize": 92234,
+      "ratio": "93.0"
+    },
+    {
+      "frame": "123",
+      "origSize": 1307297,
+      "webpSize": 87560,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "124",
+      "origSize": 1310584,
+      "webpSize": 89124,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "125",
+      "origSize": 1311153,
+      "webpSize": 87998,
+      "ratio": "93.3"
+    },
+    {
+      "frame": "126",
+      "origSize": 1324279,
+      "webpSize": 94426,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "127",
+      "origSize": 1318402,
+      "webpSize": 90590,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "128",
+      "origSize": 1322256,
+      "webpSize": 91582,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "129",
+      "origSize": 1318767,
+      "webpSize": 89438,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "130",
+      "origSize": 1332273,
+      "webpSize": 94442,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "131",
+      "origSize": 1320462,
+      "webpSize": 89480,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "132",
+      "origSize": 1324433,
+      "webpSize": 90592,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "133",
+      "origSize": 1321321,
+      "webpSize": 89514,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "134",
+      "origSize": 1339694,
+      "webpSize": 95664,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "135",
+      "origSize": 1329630,
+      "webpSize": 91108,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "136",
+      "origSize": 1331631,
+      "webpSize": 91458,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "137",
+      "origSize": 1331976,
+      "webpSize": 90956,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "138",
+      "origSize": 1345786,
+      "webpSize": 96062,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "139",
+      "origSize": 1340074,
+      "webpSize": 93284,
+      "ratio": "93.0"
+    },
+    {
+      "frame": "140",
+      "origSize": 1341521,
+      "webpSize": 92928,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "141",
+      "origSize": 1337284,
+      "webpSize": 91984,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "142",
+      "origSize": 1354490,
+      "webpSize": 96202,
+      "ratio": "92.9"
+    },
+    {
+      "frame": "143",
+      "origSize": 1342825,
+      "webpSize": 91268,
+      "ratio": "93.2"
+    },
+    {
+      "frame": "144",
+      "origSize": 1345252,
+      "webpSize": 92346,
+      "ratio": "93.1"
+    },
+    {
+      "frame": "145",
+      "origSize": 1338464,
+      "webpSize": 90534,
+      "ratio": "93.2"
+    }
+  ]
+}
