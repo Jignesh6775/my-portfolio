@@ -16,7 +16,7 @@ export default function Contact() {
         },
         {
             name: "Resume",
-            url: "/resume.pdf",
+            url: "/Jignesh-Vadiyatar-Backend-Resume-2026.pdf",
             icon: <FaFilePdf className="h-6 w-6" />,
             color: "hover:text-red-500"
         },
